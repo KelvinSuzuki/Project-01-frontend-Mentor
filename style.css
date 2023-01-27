@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Outfit:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background: hsl(212, 45%, 89%);
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.content {
+  height: 450px;
+  background: #fff;
+  margin: 150px 0px;
+  padding: 16px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.content h1 {
+  font-size: 20px;
+  padding: 14px;
+  color: hsl(218, 44%, 22%);
+}
+
+.content p {
+  color: hsl(220, 15%, 55%);
+  padding-bottom: 0px;
+}
+
+div img {
+  width: 100%;
+  border-radius: 10px;
+}
